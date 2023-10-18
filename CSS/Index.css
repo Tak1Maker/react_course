@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+    background-color: #111;
+    color: #EEE;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .series-frame {
+    max-width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    border: 2px solid #EEE;
+    margin: 30px;
+    padding: 10px;
+  }
+.my-form{
+    margin: 30px;
+}
+  
